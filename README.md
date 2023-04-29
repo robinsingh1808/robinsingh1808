@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Satyam Singh
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... java 
+- 🌱 I’m currently learning ... Salseforce
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... robinsingh1808@gmail.com
 
